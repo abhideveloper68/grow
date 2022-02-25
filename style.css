@@ -25,7 +25,7 @@
     padding: 2px;
 }
 #navbar ul li a:hover{
-    background-color:gold;
+    background-color:red;
     color:black;
 }
 .box img{
